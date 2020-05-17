@@ -1,0 +1,11 @@
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/bin/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/bin/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.deps.json
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/bin/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.runtimeconfig.json
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/bin/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.runtimeconfig.dev.json
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/bin/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.dll
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/bin/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.pdb
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/obj/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.csprojAssemblyReference.cache
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/obj/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.AssemblyInfoInputs.cache
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/obj/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.AssemblyInfo.cs
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/obj/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.dll
+/home/dilaaslan/Desktop/Rock-Paper-Scissors-OOP/obj/Debug/netcoreapp3.0/Rock-Paper-Scissors-OOP.pdb
